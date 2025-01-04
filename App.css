@@ -1,0 +1,31 @@
+
+.navbar-tabs{
+  list-style: none; 
+  display: flex;
+  justify-content:right;
+  height: 50px;
+  /* width: fit-content; */
+  background-color: #0c9234;
+  color: white;
+}
+.heading{
+  text-align: left;
+}
+.products{
+  display: flex;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+main {
+  flex-grow: 1;
+}
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 3px  ;
+  
+}

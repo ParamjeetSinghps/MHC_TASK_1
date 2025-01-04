@@ -1,0 +1,18 @@
+.brand{
+    text-align: center;
+    text-decoration: wavy;
+    color: black;
+}
+.caption{
+font-family:'Times New Roman', Times, serif;
+text-align: center;
+font-size:xx-large;
+font-style: italic;
+line-height: 1;
+color: rgb(0, 0, 0);
+}
+.presentation{
+    background-color: rgb(114, 180, 98);
+    height: 200px;
+
+}

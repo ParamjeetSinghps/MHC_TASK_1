@@ -1,0 +1,25 @@
+.product{
+    border: 2px black solid;
+    border-radius: 10px;
+    height: 180px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.product-pic{
+    border: 2px black solid;
+    border-radius: 10px;
+    height: 130px;
+    width: 140px;
+    margin: 2px;
+
+}
+.product-description{
+    border: 2px black solid;
+    border-radius: 10px;
+    height: 30px;
+    width: 135px;
+    padding: 5px ;
+    
+}
